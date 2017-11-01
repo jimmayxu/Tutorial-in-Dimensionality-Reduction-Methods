@@ -1,5 +1,5 @@
 # Data Science Tutorial
-## Introduction on Selecting Dimensionality Reduction Methods for Exploratory Data nalysis
+## Introduction on Selecting Dimensionality Reduction Methods for Exploratory Data analysis
  Author:&\quad\text{ Zhihan Xu}
  
  Email: &\quad\text{ zx243@cam.ac.uk}
@@ -10,3 +10,5 @@
  
  Time: &\quad\text{ July 2017 - September 2017}
 
+
+Click here for [Full context](Tutorial handbook.ipynb)
