@@ -11,3 +11,5 @@
  Time: &\quad\text{ July 2017 - September 2017}
 
 Click here for [Full context](Tutorial handbook.ipynb)
+
+[permissions](https://en.wikipedia.org/wiki/File_system_permissions)
