@@ -1,14 +1,12 @@
-<a id="top"></a>
-<center><h1>Data Science Tutorial:</h1></center>
-====
-<center><h1>Introduction on Selecting Dimensionality Reduction Methods for Exploratory Data nalysis</h1></center>
------
+#Data Science Tutorial 
 
-\begin{align}
- Author:&\quad\text{ Zhihan Xu}\\
- Email: &\quad\text{ zx243@cam.ac.uk}\\
- Supervisor: &\quad\text{ Laura Acqualagna}\\
- Company: &\quad \text{GlaxoSmithKline}\\
- Time: &\quad\text{ July 2017 - September 2017}\\
- \end{align}
- * * *
+##Introduction on Selecting Dimensionality Reduction Methods for Exploratory Data nalysis</h1></center>
+
+
+Author: Zhihan Xu 
+Email: zx243@cam.ac.uk
+Supervisor: Laura Acqualagna
+Company: GlaxoSmithKline
+Time: July 2017 - September 2017
+
+
