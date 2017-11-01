@@ -12,4 +12,4 @@
 
 Click here for [Full context](Tutorial handbook.ipynb)
 
-[permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+[permissions](n.wikipedia.org/wiki/File_system_permissions)
