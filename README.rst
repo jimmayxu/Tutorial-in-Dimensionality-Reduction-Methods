@@ -1,8 +1,9 @@
-<a id="top"></a>
-<center><h1>Data Science Tutorial:</h1></center>
-====
-<center><h1>Introduction on Selecting Dimensionality Reduction Methods for Exploratory Data nalysis</h1></center>
------
+=================
+Data Science Tutorial
+==========
+
+Introduction on Selecting Dimensionality Reduction Methods for Exploratory Data nalysis
+=======
 
 \begin{align}
  Author:&\quad\text{ Zhihan Xu}\\
