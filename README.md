@@ -9,5 +9,5 @@
  Company: GlaxoSmithKline
  
  Time: July 2017 - September 2017
-# Click here for [Introduction_Slides.pptx](introduction_slides)
-# Click here for [Full context](main.ipynb)
+# Click here for [the introduction slides](Introduction_Slides.pptx)
+# Click here for [full context](main.ipynb)
